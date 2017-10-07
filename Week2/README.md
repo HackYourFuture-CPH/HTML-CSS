@@ -1,16 +1,10 @@
 # Week 2
 
-```
-In week two we will discuss the following topics
+### Agenda
+- Standup
 - CSS Selectors
 - Positioning
 - Responsive design
-```
-
-- [CSS tricks ]https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
-- Bookmark the sites/resources that you used that where most useful for you the last two weeks.
-
-_Please go through the material and come to class prepared!_
 
 ## CSS Selectors
 - Type selector
@@ -118,3 +112,89 @@ https://codepen.io/webconsult/pen/MmzQEz
 ## Flexbox
 Layout mode for arranging elements in containers
 Accommodate HTML content on different screen sizes
+Flexbox guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+## Media queries
+- Flexible width example: http://codepen.io/webconsult/pen/rmQJKE
+- Responsive website example: http://codepen.io/webconsult/pen/EmOQpx
+- Good example of a responsive site:
+www.telmore.dk
+
+- A media query is a way to control the presentation of content
+- Used to make layouts that works on all device sizes
+- Used to check width of viewport, width of device, orientation, resolution, aspect-ratio and a lot more
+- To start with responsive webdesign, lets first tell the brower what width it should use: <meta name="viewport" content="width=device-width,initial-scale=1">
+- This tells the browser to use the width from the device and set initial scale to 1. Scale is the initial zoom.
+
+### Rules
+
+- Multiple and rules
+```css
+@media only screen and (min-width: 320px) and (orientation: portrait) {
+    color: red;
+}
+```
+- Multiple or rules
+```css
+@media only screen and (min-width: 320px), (orientation: portrait) {
+	color: red;
+}
+```
+- Not rule
+```css
+@media only screen and not (min-width: 320px){
+color: red;
+}
+```
+
+### Best practice
+Change media query NOT dependent on device, but when layout looks broken.
+Start with the small screen first, then expand until it looks like shit. Time for a breakpoint! –Stephen Hay
+Start by developing for a mobile and then add media queries as above. This is called mobile first development (and it is so hot right now!)
+Worth reading: http://bradfrost.com/blog/post/7-habits-of-highly-effective-media-queries/
+https://css-tricks.com/logic-in-media-queries/
+
+## Percentages
+- It is possible to use percentages as unit in margin, padding, width, height and font-size (maybe more)
+- The percentage is set compared to the parent element
+- If we want 4 columns next to each other, what percentage should we have?
+https://codepen.io/dalsHughes/pen/bqqNeq
+
+## Exercise
+Go to http://codepen.io/dalsHughes/pen/aJWKav
+- Lets start with the mobile and work out from there! (mobile first development)
+- First lets give grid-item element some padding and a lightgrey background-color. And lets get some space between the grid-items.
+- When expanding the window at some point instead of the grid-items laying on top of each other, let them stand next to each other as columns. Also increase the padding on the grid-item
+- Add gutters (space between the columns).
+- When we go very wide, change the body color to red ☺
+
+# Frontend community
+- http://shoptalkshow.com/ - Frontend podcast
+- http://javascriptweekly.com/ - Frontend newsletter
+- https://www.meetup.com/copenhagenjs/ - Js meetup
+-
+
+# To read for next class
+[Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
+[More about media queries](https://css-tricks.com/css-media-queries/)
+[HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
+[Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors/ )
+[Read about nice color combinations](http://www.colorcombos.com/index.html)
+
+# Homework
+Go to: https://codepen.io/dalsHughes/pen/RVeqKB, fork it and do the following exercise:
+
+ - Grids exercise
+    - Download the HTML and images in the folder Homework 2
+    - You are going to write the CSS for this page
+    - You are not allowed to change the HTML
+    - The page contains two grids: the first one should work using floats, the second using flex box. Be careful not to mix the two!
+    - We want the grid to look as follows:
+      - On mobile phones: a two column grid, with the exception that the first item spans the full width
+      - On tablets: a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
+      - On desktops: a four column grid, with the exception that the first item spans two columns.
+    - There should be some space between the grid items
+    - Make the page look beautiful by adding some more CSS! Some tips:
+      - How about some nice colors, fonts, hover styles?
+      - According to the grid specification, some products are bigger than others. Maybe these are "highlighted" products, so the rest of the styling could also be different.
+    - BEFORE you hand it in, read [the Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
