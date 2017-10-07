@@ -172,14 +172,14 @@ Go to http://codepen.io/dalsHughes/pen/aJWKav
 - http://shoptalkshow.com/ - Frontend podcast
 - http://javascriptweekly.com/ - Frontend newsletter
 - https://www.meetup.com/copenhagenjs/ - Js meetup
--
+
 
 # To read for next class
-[Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
-[More about media queries](https://css-tricks.com/css-media-queries/)
-[HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
-[Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors/ )
-[Read about nice color combinations](http://www.colorcombos.com/index.html)
+- [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
+- [More about media queries](https://css-tricks.com/css-media-queries/)
+- [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
+- [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors/ )
+- [Read about nice color combinations](http://www.colorcombos.com/index.html)
 
 # Homework
 Go to: https://codepen.io/dalsHughes/pen/RVeqKB, fork it and do the following exercise:
