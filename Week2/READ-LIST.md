@@ -1,10 +1,11 @@
-# Week 2
+# Week 2 Additional notes & useful links
 
-### Agenda
-- Standup
+### Legend
 - CSS Selectors
 - Positioning
 - Responsive design
+- REM & EM units
+- Links
 
 ## CSS Selectors
 - Type selector
@@ -22,8 +23,6 @@ This selector targets ALL `div` tags in our HTML
 }
 ```
 This selector targets all the elements (no matter the tag) that have the class attribute of container.
-
-
 
 - Id selector
 ```css
@@ -160,7 +159,7 @@ https://css-tricks.com/logic-in-media-queries/
 - If we want 4 columns next to each other, what percentage should we have?
 https://codepen.io/dalsHughes/pen/bqqNeq
 
-## Exercise
+## Exercise #1
 Go to http://codepen.io/dalsHughes/pen/aJWKav
 - Lets start with the mobile and work out from there! (mobile first development)
 - First lets give grid-item element some padding and a lightgrey background-color. And lets get some space between the grid-items.
@@ -168,20 +167,7 @@ Go to http://codepen.io/dalsHughes/pen/aJWKav
 - Add gutters (space between the columns).
 - When we go very wide, change the body color to red ☺
 
-# Frontend community
-- http://shoptalkshow.com/ - Frontend podcast
-- http://javascriptweekly.com/ - Frontend newsletter
-- https://www.meetup.com/copenhagenjs/ - Js meetup
-
-
-# To read for next class
-- [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
-- [More about media queries](https://css-tricks.com/css-media-queries/)
-- [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
-- [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors/ )
-- [Read about nice color combinations](http://www.colorcombos.com/index.html)
-
-# Homework
+## Excercice #2
 Go to: https://codepen.io/dalsHughes/pen/RVeqKB, fork it and do the following exercise:
 
  - Grids exercise
@@ -198,3 +184,21 @@ Go to: https://codepen.io/dalsHughes/pen/RVeqKB, fork it and do the following ex
       - How about some nice colors, fonts, hover styles?
       - According to the grid specification, some products are bigger than others. Maybe these are "highlighted" products, so the rest of the styling could also be different.
     - BEFORE you hand it in, read [the Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
+
+## REMS & EMS
+Relative units are very usfull when you need to have different font sizing for different screen sizes. EM the relative units that are based on parent element font-size, so in short it is a certain percentage size of its parents size. While REM units are relative only to root elements size.
+
+Explained: [REM & EM](https://j.eremy.net/confused-about-rem-and-em/)
+Debate: [REM & EM](https://zellwk.com/blog/rem-vs-em//)
+
+## Reading material
+- [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
+- [More about media queries](https://css-tricks.com/css-media-queries/)
+- [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
+- [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors/ )
+- [Read about nice color combinations](http://www.colorcombos.com/index.html)
+
+## Frontend community
+- http://shoptalkshow.com/ - Frontend podcast
+- http://javascriptweekly.com/ - Frontend newsletter
+- https://www.meetup.com/copenhagenjs/ - Js meetup
