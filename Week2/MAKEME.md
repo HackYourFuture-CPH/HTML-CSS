@@ -16,7 +16,6 @@
 ```
 
 ## Step 1: Give feedback:
-- In Trello you are added to one of the cards of your fellow students.
 - Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
 - revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.  
 
