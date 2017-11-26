@@ -53,7 +53,7 @@ How to hand in your homework:
 • Upload your homework in your Github repository. 
 • Make sure to create a new folder "week2" first. 
 • Your hyf-html-css/week2 should now contain an index.html and a main.css file (and the images folder)
-• Place the link to your repository in Trello.
+• Share the link to your page in slack.
 ```
 
 ## Extra extra (bonus assignment :star: ):
