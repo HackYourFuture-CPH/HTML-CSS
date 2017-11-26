@@ -20,8 +20,7 @@
 - revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.  
 
 ## Step 2: Read/do/watch
- - [Introduction to media queries](https://teamtreehouse.com/library/css3/media-queries/introduction)
- - [More about media queries](https://css-tricks.com/css-media-queries/)
+ - [Media queries](https://css-tricks.com/css-media-queries/)
  - [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
  - [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
  - [Read about nice color combinations](http://www.colorcombos.com/index.html)
