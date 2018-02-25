@@ -65,9 +65,7 @@
 
 Any of the ones listed below is fine.
 - [Visual studio](https://code.visualstudio.com/)
-- [Brackets](http://brackets.io)
 - [Atom](https://atom.io/)
-- [Spacemacs](http://spacemacs.org/)
 - [Sublime (not free)](https://www.sublimetext.com/)
 
 If you have no experience or preference when it comes to working with text editor just install Visual studio, you can always switch to another editor later on in the program.
