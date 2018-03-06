@@ -20,33 +20,26 @@
 - revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.  
 
 ## Step 2: Read/do/watch
+ 
+Forms:
+ - [Your first HTML form tutorial on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/Your_first_HTML_form)
+ - [Form Widgets documentation on MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms/The_native_form_widgets)
+ - [Form Validation](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
+
+Focus on the first article to understand the basics of how to create forms. The next article covers all of the possible form widgets. You don't need to know all of them, but skim over the article so you have familiarized yourself with what options there are. Try to focus on the first section of the form validation article. Don't worry about regular expressions looking weird and scary - we will learn more about that later and usually you can google for regular expressions to do almost everything. Towards the end some javascript is introduced - you can skip this part if you want to.
+
+Some readings that may help you with your homework:
  - [Media queries](https://css-tricks.com/css-media-queries/)
+ - [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
  - [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
  - [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
- - [Read about nice color combinations](http://www.colorcombos.com/index.html)
-
-### Exercises:
- - CodeAcedemy: [Learn Responsive Design](https://www.codecademy.com/learn/learn-responsive-design)
-
-### Super fun flexbox and grid practice 
- - [flexboxfroggy](https://flexboxfroggy.com/)
- - [cssgridgarden](http://cssgridgarden.com/)
 
 ## Step 3: Assignment:
- - Grids exercise
-    - Download the HTML and images in the folder Homework 2
-    - You are going to write the CSS for this page
-    - You are not allowed to change the HTML
-    - The page contains two grids: the first one should work using floats, the second using flex box. Be careful not to mix the two!
-    - We want the grid to look as follows:
-      - On mobile phones: a two column grid, with the exception that the first item spans the full width
-      - On tablets: a three column grid, with the exception that the first two items span the full width together (so first we have two columns, then after the first two items we have three columns)
-      - On desktops: a four column grid, with the exception that the first item spans two columns.
-    - There should be some space between the grid items
-    - Make the page look beautiful by adding some more CSS! Some tips:
-      - How about some nice colors, fonts, hover styles?
-      - According to the grid specification, some products are bigger than others. Maybe these are "highlighted" products, so the rest of the styling could also be different.
-    - BEFORE you hand it in, read [the Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files
+- Recreate the website from [this design](https://imgur.com/a/1gEdR)
+- The website must be responsive and as the design above is the desktop layout you will need to build it so the above design will collapse to [this mobile layout](https://imgur.com/a/shzBr) (same design, new layout).
+- Make sure to approximate the given design as close as you can. Imagine that you are doing it for a customer and the customer has already approved the design, so you are not allowed to change it.
+- You are allowed to find logos of your own choice, though. You can use jpg, png or even svg images. If you need help finding good quality icons you can try [Iconfinder.com](http://iconfinder.com). Keep images in a separate folder.
+ - BEFORE you hand it in, read [the Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files against the [HTML validator](https://validator.w3.org/)
 
 ```
 How to hand in your homework:
@@ -55,9 +48,3 @@ How to hand in your homework:
 • Your hyf-html-css/week2 should now contain an index.html and a main.css file (and the images folder)
 • Share the link to your page in slack.
 ```
-
-## Extra extra (bonus assignment :star: ):
-
-- Add one of the following to your page:
-    - An animation using CSS keyframes
-    - SVG
