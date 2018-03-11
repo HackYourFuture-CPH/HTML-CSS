@@ -42,3 +42,28 @@ Direct links to wireframes:
 [Step 3](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%203.pdf)
 
 [Step 4](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%204.pdf)
+
+Below is an overview of the fields in the form and how they should be validated. To figure out the right regular expression pattern try googling for something like ("regex only letters") and use something like [this website](https://regexr.com/) to test that the pattern you have found works correctly.
+
+| Field name                   | Required | Validation criteria                                    |
+|------------------------------|----------|--------------------------------------------------------|
+| First name                   | yes      |                                                        |
+| Last name                    | yes      |                                                        |
+| Country                      | yes      |                                                        |
+| Street address               | yes      |                                                        |
+| Post code                    | yes      | Assume danish address, so allow only 4 letters.        |
+| Profile description          | no       | Maximum 500 characters                                 |
+| Shipping address             | yes      |                                                        |
+| Email                        | yes      | Allow only valid email addresses.                      |
+| Phone                        | no       | Allow only valid phone numbers                         |
+| Password                     | yes      | Minimum 10 characters, uppercase and lowercase letters |
+| Password repeat              | yes      | Minimum 10 characters, uppercase and lowercase letters |
+| Newsletter                   | yes      | One radio option must be selected                      |
+| Kind of items                | no       | Must be possible to select 0, 1 or many options.       |
+| "Resemble your style" images | no       | Must be possible to select 0, 1 or many options.       |
+| Name on creditcard           | yes      |                                                        |
+| Card type                    | yes      |                                                        |
+| Credit card number           | yes      | Only numbers allowed. Exactly 16 digits.               |
+| Expiry month                 | yes      |                                                        |
+| Expiry year                  | yes      |                                                        |
+| CCV                          | yes      | Only numbers. Exactly 3 digits.                        |
