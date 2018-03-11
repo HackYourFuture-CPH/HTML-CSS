@@ -21,7 +21,7 @@ Notice that there is some “state-based” functionality, such as the ability t
 
 Currently you are expected to create 4 separate HTML files and set up links between them using anchor (<a>) tags. If you feel like trying out some more techniques learned in class today, try instead putting the 4 different form steps into tabs using the library we learned to use today. Or you can also create tabs using the checkbox hack. 
 
-You are welcome to try providing some CSS-transition based animations if you wish.
+There is a progress bar that will indicate how far the user is. If you have time, try to use CSS transitions to animate it so the bar goes from 0-1 on the first page, 1-2 on the second page and so on (with a smooth and nice animation).
 
 ```
 How to hand in your homework:
