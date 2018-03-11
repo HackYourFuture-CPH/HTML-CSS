@@ -30,3 +30,15 @@ How to hand in your homework:
 • Post a link to your repository on the #class05 channel on Slack.
 • The deadline for the hand-in is saturday night. Feedback will be given the following week.
 ```
+
+Direct links to wireframes:
+
+[Step 1a](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%201a.pdf)
+
+[Step 1b](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%201b.pdf)
+
+[Step 2](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%202.pdf)
+
+[Step 3](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%203.pdf)
+
+[Step 4](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%204.pdf)
