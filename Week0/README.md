@@ -33,9 +33,6 @@
 
 >Don't worry if you don't understand everything, but make sure to prepare some questions for your first session about the reading material.
 
-### Add a card in Trello:
-*  In Trello, create a card with your name (there is an example in there) and add the link to your CodePen that contains you application assignment.
-
 ### Install the Slack Apps on your:
 - Mobile: [App store](https://itunes.apple.com/nl/app/slack/id803453959?mt=12) or [Google Play](https://play.google.com/store/apps/details?id=com.Slack&hl=nl)
 - Desktop: [OSX](https://slack.com/downloads/osx) or [Windows](https://slack.com/downloads/windows)
@@ -43,21 +40,19 @@
 ### Read:
 - About Slack: [Cheat sheet for basics and shortcuts](https://get.slack.help/hc/en-us/articles/217626358-Cheat-sheet-for-basics-and-shortcuts)
 - How to format your messages in Slack: [Using Slack](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
-- Take the Trello [tour](https://trello.com/tour)
 
 ### Check double check:
 
 ### Are you signed up for:
 
 - Slack
-- Trello
 - Github
 
 ### Did you do the following?:
 
-- Write "hallo :hand:" in Slack?
-- Did you add a card to Trello with your name and added the link to your application assignment (CodePen)?
+- Write "hej :hand:" in Slack?
 - Did you create a Github account?
+- Have you been added to a team (f.ex. Class06, Class07, etc.)
 
 >If the answer to this is 'no', don't panic, you can always ask help in Slack, but before you do, please first try and see if you can find some information about the above tools yourself (hint: ask Google first).
 
@@ -71,4 +66,4 @@ Any of the ones listed below is fine.
 If you have no experience or preference when it comes to working with text editor just install Visual studio, you can always switch to another editor later on in the program.
 
 ### Curriculum
-Don't forget to take a look at the [HackYourFuture curriculum](https://github.com/HackYourFuture/curriculum). Go through it and make sure you have an idea of what you will learn at HackYourFuture :muscle:
+Don't forget to take a look at the [HackYourFuture curriculum](https://github.com/HackYourFuture-CPH/curriculum). Go through it and make sure you have an idea of what you will learn at HackYourFuture :muscle:
