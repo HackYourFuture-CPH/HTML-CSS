@@ -33,9 +33,6 @@
 
 >Don't worry if you don't understand everything, but make sure to prepare some questions for your first session about the reading material.
 
-### Add a card in Trello:
-*  In Trello, create a card with your name (there is an example in there) and add the link to your CodePen that contains you application assignment.
-
 ### Install the Slack Apps on your:
 - Mobile: [App store](https://itunes.apple.com/nl/app/slack/id803453959?mt=12) or [Google Play](https://play.google.com/store/apps/details?id=com.Slack&hl=nl)
 - Desktop: [OSX](https://slack.com/downloads/osx) or [Windows](https://slack.com/downloads/windows)
@@ -50,13 +47,11 @@
 ### Are you signed up for:
 
 - Slack
-- Trello
 - Github
 
 ### Did you do the following?:
 
 - Write "hallo :hand:" in Slack?
-- Did you add a card to Trello with your name and added the link to your application assignment (CodePen)?
 - Did you create a Github account?
 
 >If the answer to this is 'no', don't panic, you can always ask help in Slack, but before you do, please first try and see if you can find some information about the above tools yourself (hint: ask Google first).
