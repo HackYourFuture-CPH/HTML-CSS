@@ -2,7 +2,7 @@
 
 >Before you come to your first session at HackYourFuture please go through this document, read, watch and check if you are ready to start your HackYourFuture adventure!
 
-### Read these Chapters from the [Front-end Handbook](https://www.frontendhandbook.com)
+### Read these Chapters from the [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
  * [What Is a Front-End Developer?](https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html)
  * [Part I. The Front-End Practice](https://frontendmasters.com/books/front-end-handbook/2018/practice.html)
  * From Part II. read: [Self Directed Learning](https://www.frontendhandbook.com/learning/self-direct-learning.html), also read [Learn HTML/CSS](https://frontendmasters.com/books/front-end-handbook/2018/learning/html-css.html)
