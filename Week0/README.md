@@ -40,7 +40,6 @@
 ### Read:
 - About Slack: [Cheat sheet for basics and shortcuts](https://get.slack.help/hc/en-us/articles/217626358-Cheat-sheet-for-basics-and-shortcuts)
 - How to format your messages in Slack: [Using Slack](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
-- Take the Trello [tour](https://trello.com/tour)
 
 ### Check double check:
 
