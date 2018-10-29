@@ -43,7 +43,7 @@
 - Slack: https://hackyourfuture-cph.slack.com/signup
 
 (if you have problems with signing up for Slack, let me know and I can add you directly) Once you are in, join the channel #class{your class number} and write "hej 👋".
-So if your classnumber is 8 the slack channel will be called #class08
+So if your classnumber is 8 the slack channel will be called #class08. We also ask you not to use screen names - as you will use this channel for advice and feedback it will be helpful if your mentors know who is who. Adding a photo to your profile is also recommended :)
 
 - About Slack: [Cheat sheet for basics and shortcuts](https://get.slack.help/hc/en-us/articles/217626358-Cheat-sheet-for-basics-and-shortcuts)
 - How to format your messages in Slack: [Using Slack](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
