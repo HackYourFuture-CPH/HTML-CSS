@@ -9,12 +9,11 @@ We will focus on _responsive_ web development : you will learn how to make your 
 So since this is your first module, what can you expect the next three weeks?
 
 ## Planning for Current Class
-| Week | Topic | Read | Homework | Review |
+| Week | Topic | Preparation | Homework | Review |
 | ---- | ----- | ---- |----------|--------|
-|0.|Prepare for first session|[Pre-reading](/Week0)|-|-|
-| 1. | DOM, HTML/CSS syntax | [Week 1 Reading](/Week1/README.md) |  [Homework week 1](/Week1/MAKEME.md) |[Review](/Week1/REVIEW.md)|
-| 2. | Responsive design, media queries, developer tools | [Week 2 Reading](/Week2/README.md) | [Homework week 2](/Week2/README.md) ||[Review](/Week2/REVIEW.md)|
-| 3. | Recap, useful resources on the web| [JavaScript Intro](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/JavaScript1/Week0) | [Homework week 3](/Week3/MAKEME.md) ||[Review](/Week3/REVIEW.md)|
+| 1. | DOM, HTML/CSS syntax | [Preparation](/Week1/preparation.md) | [Homework](/Week1/homework.md) |-|
+| 2. | Responsive design, media queries, developer tools | [Preparation](/Week2/preparation.md) | [Homework](/Week2/homework.md) |-|
+| 3. | Recap, useful resources on the web| [Preparation](/Week2/preparation.md) | [Homework](/Week3/homework.md) |-|
 
 Please get yourself familiar with this repository by navigating your way through the different README files. Kind note: make sure to read assignment requirements properly for handing them in, in the end this saves both you and your teacher a lot of time. If you have any questions or something is not entirely clear ¯\\\_(ツ)_/¯, please ask/comment on Slack!
 

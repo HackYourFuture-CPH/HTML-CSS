@@ -1,28 +1,5 @@
 ## Homework Week 1
 
->[Here](/Week1/README.md) you find the readings you have to complete before the second lecture.
-
-### Learning goals for this week:
-```
- • The division of labor between HTML and CSS
- • Introduction to HTML:
-    • Parents, children, attributes
-    • Indentation
-    • Semantic elements
-    • Paragraphs, links, images, lists
- • Introduction to ARIA:
-    • What is ARIA and why is it important?
-    • Using ARIA in HTML
-    • Validating ARIA
- • Introduction to CSS:
-    • Where can we write it and what difference does that make?
-    • Selectors (id, class, element type), properties
-    • How to structure a CSS file
-    • Naming things
- • External files: relative and absolute paths
- • Getting to know your text editor
-```
-
 ## Step 1: Read and watch
 #### Good learning practices
 Before you start check out this [video](http://www.learningscientists.org/videos/) and/or this [article](https://www.cultofpedagogy.com/learning-strategies/) about good learning practices.
@@ -36,13 +13,8 @@ Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 - [CSS-tricks - CSS Properties](https://css-tricks.com/almanac/properties/)
 - [MDN - CSS box model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 
-## Step 2: Give feedback
-- You are assigned to one of your fellow students (link to document with feedback partners). Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
-- revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.
 
-> Don't forget, you can always revisit Khan Academy: [Into to HTML/CSS: Making web pages](https://nl.khanacademy.org/computing/computer-programming/html-css) if you are stuck and need a reminder
-
-## Step 3: Assignment
+## Step 2: Assignment
  - Make your own web resume:
     - One page
     - Two files: HTML and CSS

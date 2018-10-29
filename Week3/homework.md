@@ -1,14 +1,5 @@
 ## Homework Week 3
 
->[Here](https://github.com/HackYourFuture-CPH/JavaScript/tree/master/Week0) you find the readings you have to complete before your first JavaScript lecture
-
-### Learning goals for this week:
-```
- • Learn to use basic form widgets
- • Learn about simple HTML-based built-in form validation
- • Try to apply CSS transitions
-```
-
 ### Homework assignment
 
 In the folder “wireframes” you find wireframes for a signup flow for a website that finds special deals on clothes, handbags and accesories based on users personal preferences.
