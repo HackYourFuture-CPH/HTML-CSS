@@ -37,9 +37,17 @@
 - Mobile: [App store](https://itunes.apple.com/nl/app/slack/id803453959?mt=12) or [Google Play](https://play.google.com/store/apps/details?id=com.Slack&hl=nl)
 - Desktop: [OSX](https://slack.com/downloads/osx) or [Windows](https://slack.com/downloads/windows)
 
-### Read:
+### Join:
+
+- GitHub: https://www.github.com
+- Slack: https://hackyourfuture-cph.slack.com/signup
+
+(if you have problems with signing up for Slack, let me know and I can add you directly) Once you are in, join the channel #class{your class number} and write "hej 👋".
+So if your classnumber is 8 the slack channel will be called #class08
+
 - About Slack: [Cheat sheet for basics and shortcuts](https://get.slack.help/hc/en-us/articles/217626358-Cheat-sheet-for-basics-and-shortcuts)
 - How to format your messages in Slack: [Using Slack](https://get.slack.help/hc/en-us/articles/202288908-Format-your-messages)
+
 
 ### Check double check:
 
