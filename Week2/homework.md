@@ -6,7 +6,9 @@ Some readings that may help you with your homework:
  - [HTML syntax](http://www.w3schools.com/html/html5_syntax.asp)
  - [Article about multiple ways to select classes and id's](https://css-tricks.com/multiple-class-id-selectors)
 
+
 ## Assignment:
+![](https://media.giphy.com/media/3o6MbdxnLWKRuE1RxS/giphy.gif)
 - Recreate the website from [this design](https://imgur.com/a/1gEdR)
 - The website must be responsive and as the design above is the desktop layout you will need to build it so the above design will collapse to [this mobile layout](https://imgur.com/a/shzBr) (same design, new layout).
 - Make sure to approximate the given design as close as you can. Imagine that you are doing it for a customer and the customer has already approved the design, so you are not allowed to change it.

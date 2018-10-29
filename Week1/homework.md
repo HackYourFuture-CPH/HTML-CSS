@@ -2,6 +2,7 @@
 
 ## Step 1: Read and watch
 #### Good learning practices
+![](https://media.giphy.com/media/Sb7WSbjHFNIL6/giphy.gif)<br>
 Before you start check out this [video](http://www.learningscientists.org/videos/) and/or this [article](https://www.cultofpedagogy.com/learning-strategies/) about good learning practices.
 
 #### HTML5
