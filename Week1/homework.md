@@ -2,7 +2,7 @@
 
 ## Step 1: Read and watch
 #### Good learning practices
-![](https://media.giphy.com/media/Sb7WSbjHFNIL6/giphy.gif)<br>
+![Watching television](https://media.giphy.com/media/Sb7WSbjHFNIL6/giphy.gif)<br>
 Before you start check out this [video](http://www.learningscientists.org/videos/) and/or this [article](https://www.cultofpedagogy.com/learning-strategies/) about good learning practices.
 
 #### HTML5
@@ -35,23 +35,18 @@ Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
         - Make sure that you page looks nice, and that your text is readable & accessible (ARIA)
     - BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) and check your files (you can also use the [HTML validator](https://validator.w3.org)).
 
-### How to hand in Homework:
-_Steps_:
-1. In your newly created Github account search for the invitation from the HackYourFuture organization to you join your classes team.
-2. Create a new repository (name it something like hyf-html-css) make sure you select the option: initialize with README.
-3. Inside your new repository create a folder called "week1". If you have trouble finding out how to create a folder in Github check this [Stack Overflow question](https://stackoverflow.com/questions/18773598/creating-folders-inside-github-com-repo-without-using-git)
-4. Upload the files you created on your computer (step 3 of the homework) inside this folder, write a description for this “commit” (for example: "homework week1").
-5. Your hyf-html-css/week1 should now contain an index.html and a main.css file (and maybe a folder containing your images)
-6. Open the files in your folder to check if all of this worked.
-7. Now go to the settings of your repository:![settings overview](./assets/github_pages1.png)
-8. And go to _Github Pages_ select "master" instead of "none"![pages overview](./assets/github_pages2.png)
-9. Now you can view your homework online at: https://_hereyouplaceyourgithubusername_/hyf-html-css/week1
+## Hand in Homework:
+Check this [video](https://www.youtube.com/watch?v=GDZiJE_xna4) that explains how to hand in homework. Dont forget to post your homework to slack! You can also follow the points below.
 
-### Here is an example of how your homework repository should look:
-- https://github.com/mkruijt/HTML-CSS
-- In the README file there are links to the homework hosted by Github!
+1. Go to [github](https://www.github.com) and log in
+2. Go to this repository (repo): https://github.com/HackYourFuture-CPH/hyf-homework
+3. Fork it by clicking the button in the top right corner that says Fork.<br> ![Fork instructions](./assets/fork-instructions.png) When forking a repo, you will now have that repo in your own account. To check that, go to your https://github.com/YOUR-ACCOUNT/hyf-homework<br> This repo will be where you will upload all of your homework throughout Hack Your Future.
+4. The files that you have created for the homework now needs to be uploaded to the hyf-homework repo. Start by going to the relevant folder: hyf-homework/html-css/week1<br> Now click the upload button.<br> ![Upload instructions](./assets/upload-instructions.png)
+5. Choose the files to upload (or drag and drop them), write a commit title and select the "Commit directly to the ```master``` branch."
+![Commit instructions](./assets/commit-instructions.png) now press the "Commit changes" button.
+6. If you need to change anything in the files, simply press the upload button and upload the changed file/files with a commit message. 
+7. Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/master/html-css/week1/index.html
+8. Congratulations you have now handed in the homework 🎉! 
 
-### Fun to check out:
-[Shapes of CSS](https://css-tricks.com/examples/ShapesOfCSS/)
+You are now done with the first homework at Hack Your Future. You should be proud of yourself!<br><br> ![Proud](https://media.giphy.com/media/xSM46ernAUN3y/giphy.gif)
 
-#### Last but not least, when you are done with the homework check the learning goals at the top of this document. Go through each of them and check if you understand what is written there. Try formulating them into questions and answer your own questions (for example: Wat does it mean when you say that there is a division of labor between HTML and CSS? Why is there a division of labor between HTML and CSS?). If you need help with this, first ask Google, than ask in Slack.

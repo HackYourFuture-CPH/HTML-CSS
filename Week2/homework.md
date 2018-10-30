@@ -1,4 +1,4 @@
-# Homework
+# Homework week 2
 
 Some readings that may help you with your homework:
  - [Media queries](https://css-tricks.com/css-media-queries/)
@@ -15,10 +15,9 @@ Some readings that may help you with your homework:
 - You are allowed to find logos of your own choice, though. You can use jpg, png or even svg images. If you need help finding good quality icons you can try [Iconfinder.com](http://iconfinder.com). Keep images in a separate folder.
  - BEFORE you hand it in, read [the Style guide](http://www.w3schools.com/html/html5_syntax.asp) again and check your files against the [HTML validator](https://validator.w3.org/)
 
-```
-How to hand in your homework:
-• Upload your homework in your Github repository. 
-• Make sure to create a new folder "week2" first. 
-• Your hyf-html-css/week2 should now contain an index.html and a main.css file (and the images folder)
-• Share the link to your page in slack.
-```
+
+## Hand in Homework:
+- With the hyf-homework repo you cloned last week, find the relevant week number
+- Now upload your homework files to the repo. 
+- If you forgot how to do that, check it out [here](../Week1/homework.md#hand-in-homework)
+- Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/master/html-css/week1/index.html
