@@ -16,15 +16,15 @@ Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 
 
 ## Step 2: Assignment
- - Make your own web resume:
+ - Make your own online CV:
     - One page
     - Two files: HTML and CSS
-    - Include the following:
-        - Your personal info (name, place of birth, etc.)
-        - A picture
+    - Include the following (you don't have to put any real personal information):
+        - Your contact info
+        - A picture 
         - A few lines about who you are
-        - Education
-        - Work experience
+        - Work experience (from most recent to oldest)
+        - Education (from most recent to oldest)
     - Include the following:
         - Different types of headings (`<h1>`, `<h2>`)
         - A list (`<ul>`). In this list include the _learning strategies_ you used making your resume. Also include some of the resources/references, this can be documentation/video etc, that where helpful.
