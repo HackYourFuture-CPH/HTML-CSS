@@ -1,4 +1,4 @@
-# Reading material for the second lecture
+# Preparation
 
 ```
 In week two we will discuss the following topics
