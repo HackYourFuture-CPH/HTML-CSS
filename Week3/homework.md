@@ -6,7 +6,7 @@ The signup form is fairly complex and broken into 4 steps in order not to scare 
 
 ![Get to work](https://media.giphy.com/media/3og0ITQOC5wlyk8ffy/giphy.gif)
 
-The task is to recreate this form in HTML and CSS. You should focus on using the right HTML form widgets for the job, applying sensible form validation and the general layout. There is no visual design provided, so you can choose colors etc. but no points are awarded for good or bad design so it is suggest that you just leave all of the form input with the stock styling and only try to refine this if you have completed all other tasks.
+The task is to recreate this form in HTML and CSS. You should focus on using the right HTML form widgets for the job, applying the general layout. There is no visual design provided, so you can choose colors etc. but no points are awarded for good or bad design so it is suggest that you just leave all of the form input with the stock styling and only try to refine this if you have completed all other tasks.
 
 Notice that there is some “state-based” functionality, such as the ability to hide and show a custom shipping address, if the billing and shipping address is not the same. Try to apply the “checkbox hack” that we used in class today to achieve this (https://css-tricks.com/the-checkbox-hack/)
 
@@ -51,6 +51,9 @@ Below is an overview of the fields in the form and how they should be validated.
 | Expiry month                 | yes      |                                                        |
 | Expiry year                  | yes      |                                                        |
 | CCV                          | yes      | Only numbers. Exactly 3 digits.                        |
+
+## Form validation *optional*
+For the forms create sensible form validation. Read up on form validation [here](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
 
 ## Hand in Homework:
 - With the hyf-homework repo you cloned last week, find the relevant week number
