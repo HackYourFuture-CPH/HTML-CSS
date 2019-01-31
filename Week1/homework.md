@@ -36,17 +36,22 @@ Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
     - BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) and check your files (you can also use the [HTML validator](https://validator.w3.org)).
 
 ## Hand in Homework:
-Check this [video](https://www.youtube.com/watch?v=GDZiJE_xna4) that explains how to hand in homework. Dont forget to post your homework to slack! You can also follow the points below.
+Check this [video](https://www.youtube.com/watch?v=lVNIK0CaG_A) that explains how to hand in homework. Dont forget to post your homework to slack! You can also follow the points below.
 
 1. Go to [github](https://www.github.com) and log in
-2. Go to this repository (repo): https://github.com/HackYourFuture-CPH/hyf-homework
-3. Fork it by clicking the button in the top right corner that says Fork.<br> ![Fork instructions](./assets/fork-instructions.png) When forking a repo, you will now have that repo in your own account. To check that, go to your https://github.com/YOUR-ACCOUNT/hyf-homework<br> This repo will be where you will upload all of your homework throughout Hack Your Future.
-4. The files that you have created for the homework now needs to be uploaded to the hyf-homework repo. Start by going to the relevant folder: hyf-homework/html-css/week1<br> Now click the upload button.<br> ![Upload instructions](./assets/upload-instructions.png)
-5. Choose the files to upload (or drag and drop them), write a commit title and select the "Commit directly to the ```master``` branch."
+1. Create a new repository by going here: https://github.com/new
+1. In the repository name write **hyf-homework**
+1. Create a new file by either clicking the **create new file** link or go [here](https://github.com/benna100/hyf-homework/new/master)
+1. Type **html-css/week1/readme.md** everytime you write **/** it will recognize that we are reffering to a folder. 
+1. Add the readme.md file by writing **added readme week1** in the input under **Commit new file**.<br>Press the green button that says **Commit new file**. You have now added a readme.md :)
+1. Create the readme.md file for week2 and week3 aswell. By going [here](https://github.com/benna100/hyf-homework/new/master) For fx week2 you write **html-css/week2/readme.md**
+1. We have now created the structure for handing in homework, lets add our homework!
+1. The files that you have created for the homework now needs to be uploaded to the hyf-homework repository. Start by going to the relevant folder: hyf-homework/html-css/week1<br> Now click the upload button.<br> ![Upload instructions](./assets/upload-instructions.png)
+1. Choose the files to upload (or drag and drop them), write a commit title and select the "Commit directly to the ```master``` branch."
 ![Commit instructions](./assets/commit-instructions.png) now press the "Commit changes" button.
-6. If you need to change anything in the files, simply press the upload button and upload the changed file/files with a commit message. 
-7. Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/master/html-css/week1/index.html
-8. Congratulations you have now handed in the homework 🎉! 
+1. If you need to change anything in the files, simply press the upload button and upload the changed file/files with a commit message. 
+1. Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/master/html-css/week1/index.html
+1. Congratulations you have now handed in the homework 🎉! 
 
 You are now done with the first homework at Hack Your Future. You should be proud of yourself!<br><br> ![Proud](https://media.giphy.com/media/xSM46ernAUN3y/giphy.gif)
 
