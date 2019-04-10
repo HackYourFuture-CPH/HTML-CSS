@@ -56,7 +56,7 @@ Below is an overview of the fields in the form and how they should be validated.
 For the forms create sensible form validation. Read up on form validation [here](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
 
 ## Hand in Homework:
-- With the hyf-homework repo you cloned last week, find the relevant week number
+- With the `https://github.com/USERNAME/hyf-homework`, find the relevant week number
 - Now upload your homework files to the repo. 
 - If you forgot how to do that, check it out [here](../Week1/homework.md#hand-in-homework)
 - Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/master/html-css/week1/index.html
