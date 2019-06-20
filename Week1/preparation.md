@@ -7,7 +7,7 @@
 ### Read these Chapters from the [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
  * [What Is a Front-End Developer?](https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html)
  * [Part I. The Front-End Practice](https://frontendmasters.com/books/front-end-handbook/2018/practice.html)
- * From Part II. read: [Self Directed Learning](https://www.frontendhandbook.com/learning/self-direct-learning.html), also read [Learn HTML/CSS](https://frontendmasters.com/books/front-end-handbook/2018/learning/html-css.html)
+ * From Part II. read: [Self Directed Learning](https://frontendmasters.com/books/front-end-handbook/2018/learning/self-direct-learning.html), also read [Learn HTML/CSS](https://frontendmasters.com/books/front-end-handbook/2018/learning/html-css.html)
  * Read [lesson 1: building your first web page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
 
 ### After you finish reading ask yourself the following questions:
