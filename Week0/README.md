@@ -76,4 +76,4 @@ Any of the ones listed below is fine.
 If you have no experience or preference when it comes to working with text editor just install Visual studio, you can always switch to another editor later on in the program.
 
 ### Curriculum
-Don't forget to take a look at the [HackYourFuture curriculum](https://github.com/HackYourFuture/curriculum). Go through it and make sure you have an idea of what you will learn at HackYourFuture :muscle:
+Don't forget to take a look at the [HackYourFuture Copenhagen curriculum](https://github.com/HackYourFuture-cph/curriculum). Go through it and make sure you have an idea of what you will learn at HackYourFuture :muscle:
