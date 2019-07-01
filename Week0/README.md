@@ -5,7 +5,7 @@
 ### Read these Chapters from the [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
  * [What Is a Front-End Developer?](https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html)
  * [Part I. The Front-End Practice](https://frontendmasters.com/books/front-end-handbook/2018/practice.html)
- * From Part II. read: [Self Directed Learning](https://frontendmasters.com/books/front-end-handbook/2018/learning/self-direct-learning.html), also read [Learn HTML/CSS](https://frontendmasters.com/books/front-end-handbook/2018/learning/html-css.html)
+ * From Part II. read: [Self Directed Learning](https://frontendmasters.com/books/front-end-handbook/2018/learning/self-direct-learning.html), also read [Learn HTML/CSS](https://internetingishard.com/html-and-css/)
  * Read [lesson 1: building your first web page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
 
 ### After you finish reading ask yourself the following questions:
@@ -25,13 +25,8 @@
  * <a href="https://www.youtube.com/watch?v=7_LPdttKXPc" target="_blank">How the Internet Works in 5 Minutes</a>
  * <a href="https://www.youtube.com/watch?v=WjDrMKZWCt0" target="_blank">How Web Browsers Work</a>
 
-### Get familiar with Accessible Rich Internet Applications (ARIA)
- * [What is ARIA and why is it important?](https://www.youtube.com/watch?v=HtTyRajRuyY)
- * [Introduction to ARIA](https://www.youtube.com/watch?v=g9Qff0b-lHk&t=4s)
- * [Web applications and ARIA FAQ](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Web_applications_and_ARIA_FAQ)
- * _Bonus knowlegde:_ [Practical guide for developers on how to add accessibility information to HTML elements using the ARIA specification](https://w3c.github.io/using-aria/)
-
->Don't worry if you don't understand everything, but make sure to prepare some questions for your first session about the reading material.
+### Getting ready for Javascript
+To get an easier start of the javascript classes look into [Javascript fundamentals](http://javascript.info/). 
 
 ### Install the Slack Apps on your:
 - Mobile: [App store](https://itunes.apple.com/nl/app/slack/id803453959?mt=12) or [Google Play](https://play.google.com/store/apps/details?id=com.Slack&hl=nl)
