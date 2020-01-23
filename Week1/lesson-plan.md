@@ -16,9 +16,9 @@
 - The division of labor between HTML and CSS
 - HTML
     - WHAT IS HTML?
-    - DOM:
-          - HTML DOM tree structure
-          - Demo: https://software.hixie.ch/utilities/js/live-dom-viewer/
+    - DOM
+    	- HTML DOM tree structure
+        - Demo: https://software.hixie.ch/utilities/js/live-dom-viewer/
     - [Exercise 1](#exercise-1)
     - HTML TAGS
     - [Code inspiration](#simple-html-page)
@@ -27,9 +27,9 @@
     - Add and remove style from a website
     - Show id, class, element type selector
     - [Code inspiration teaching the below topics](#simple-css-inline)
-          - Specificity
+    	- Specificity
     - Properties mention a few (color, width, height, etc.)
-          - Rules will be applied to ALL elements that match your selector
+     	- Rules will be applied to ALL elements that match your selector
     - External vs inline styles vs element style
     - If time Boxmodel: border-box: width is set with the border inside! content-box, 100 px refers ONLY to the content, padding, border is on top! [Code inspiration](#box-model)
 
@@ -66,46 +66,43 @@
 
 ```
 <html>
-	<head>
-		<title>
-			Hack your future example
-		</title>
-		<style>
-			p {
-				font-size: 30px;
-			}
+  <head>
+    <title>
+      Hack your future example
+    </title>
+    <style>
+      p {
+        font-size: 30px;
+      }
 
-			.hello {
-				color: green;
-			}
+      .hello {
+        color: green;
+      }
 
-			.hello .blue {
-				color: blue;
-			}
+      .hello .blue {
+        color: blue;
+      }
 
-			#orange {
-				color: orange;
-			}
-
-		</style>
-	</head>
-	<body>
-
-	<div class="hello-world-container">
-		<p class="hello">
-			<span class="blue">
-				Hello World
-			</span>
-		</p>
-		<p>
-			This is some text on a page
-		</p>
-		<span class="blue">Blue</span>
-	</div>
-
-
-	</body>
+      #orange {
+        color: orange;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="hello-world-container">
+      <p class="hello">
+        <span class="blue">
+          Hello World
+        </span>
+      </p>
+      <p>
+        This is some text on a page
+      </p>
+      <span class="blue">Blue</span>
+    </div>
+  </body>
 </html>
+
 ```
 
 ## Box model
