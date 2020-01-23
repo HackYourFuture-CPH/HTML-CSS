@@ -6,8 +6,7 @@
     - [ ] DOM
     - [ ] Parents, children, attributes
     - [ ] Indentation
-    - [ ] Semantic elements
-    - [ ] Paragraphs, links, images, lists
+    - [ ] HTML Tags and semantic elements
  - [ ] Introduction to ARIA
  - [ ] Introduction to CSS:
     - [ ] Where can we write it and what difference does that make?
