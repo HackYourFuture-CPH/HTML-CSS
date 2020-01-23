@@ -5,7 +5,6 @@
  - [ ] Introduction to HTML:
     - [ ] DOM
     - [ ] Parents, children, attributes
-    - [ ] Indentation
     - [ ] HTML Tags and semantic elements
  - [ ] Introduction to ARIA
  - [ ] Introduction to CSS:
