@@ -1,3 +1,25 @@
+- Quick introduction of mentors
+- Importance of asking questions
+- The division of labor between HTML and CSS
+- HTML
+    - WHAT IS HTML?
+    - DOM:
+    - HTML DOM tree structure
+    - Demo: https://software.hixie.ch/utilities/js/live-dom-viewer/
+    - HTML TAGS
+    - [Exercise 1](#exercise-1)
+    - Demo, create something simple like: https://github.com/HackYourFuture-CPH/HTML-CSS/blob/class07/Week1/material/intro1-1.html
+
+- CSS
+    - Add and remove style from a website
+    - Code something basic like: https://github.com/HackYourFuture-CPH/HTML-CSS/blob/class07/Week1/material/intro1-1-css.html
+    - Show id, class, element type selector
+    - Properties mention a few
+          - Rules will be applied to ALL elements that match your selector
+    - External vs inline styles
+    - Boxmodel: border-box: width is set with the border inside! content-box, 100 px refers ONLY to the content, padding, border is on top!
+
+[Exercise 2](#exercise-2), [Exercise 3](#exercise-3), [exercise 4](#exercise-4), [exercise 5](#exercise-5)
 
 # Exercises
 
@@ -111,7 +133,7 @@ Create an index.html with elements in the depicted hierarchy. Add ids and classe
 ![alt text](https://github.com/senner007/temp/blob/master/Hierarchy-1.png "Logo Title Text 1")
 
 
-## Exercise 4
+## Exercise 5
 
 You have been hired to create a website for at company. It has to have the structure that is depicted below. Hint : use the float property
 
