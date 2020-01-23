@@ -9,6 +9,8 @@
 > Teach towards the students being able to solve the homework
 ```
 
+---
+
 - Quick introduction of mentors
 - Importance of asking questions
 - The division of labor between HTML and CSS
