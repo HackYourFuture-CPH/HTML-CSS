@@ -39,27 +39,26 @@
 
 ## Simple html page
 ```
-  
-<!DOCTYPE html>
 <html>
-<head>
+  <head>
     <title>test dom</title>
-</head>
-<body>
+  </head>
+  <body>
     <div>
-        <h1>Beneath is a link to Hack Your Future:</h1>
-        <a href="http://www.hackyourfuture.net/">Hack your future</a>
-        <div class="hello-world-container">
-		    <p>
-		        Hello Students
-		    </p>
-		    <p>
-		        This is some text on a page
-		    </p>
-		</div>
+      <h1>Beneath is a link to Hack Your Future:</h1>
+      <a href="http://www.hackyourfuture.net/">Hack your future</a>
+      <div class="hello-world-container">
+        <p>
+          Hello Students
+        </p>
+        <p>
+          This is some text on a page
+        </p>
+      </div>
     </div>
-</body>
+  </body>
 </html>
+
 ```
 
 ## Simple css inline
