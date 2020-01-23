@@ -4,6 +4,33 @@
 Exercises made by [Niels Gregersen](https://github.com/senner007)
 
 ## Exercise 1
+
+Answer the questions below using the html found beneath
+
+```
+<section>
+    <div>
+        <p>hello</p>
+        <p>world</p>
+        <a href="#">
+            <ul>
+                <li>Hack</li>
+                <li>your</li>
+                 <li>Future</li>
+            </ul>
+        </a>		
+    </div>
+</section>
+
+```
+
+1. The p element with the text “world” - what elements is its parent?
+1. What text is written in the ul element’s second child?
+1. What text is written in the div element’s first child?
+1. The p element with the text world, what siblings does it have?
+
+
+## Exercise 2
 Create web page where you introduce yourself. It should only have a headline, an image and some text.
 - Create an index.html file with only the basic structure: 
 
@@ -26,7 +53,7 @@ Create web page where you introduce yourself. It should only have a headline, an
 Does the image have an alt attribute? If not, add one.
 [The alt Attribute](https://www.w3schools.com/html/html_images.asp)
 
-## Exercise 2
+## Exercise 3
 
 Create and index.html with the follow hierarchy:
 
@@ -77,7 +104,7 @@ Do not add ids or classes to the tags. Now add the following specific styles:
 
 Now add your own improved styles so the hierarchy becomes visible/obvious to the viewer.
 
-## Exercise 3
+## Exercise 4
 
 Create an index.html with elements in the depicted hierarchy. Add ids and classes.
 
