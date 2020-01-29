@@ -23,6 +23,7 @@
       - [ ] [Exercise 1](#positioning)
     - [ ] Floating (live coding, no exercise)
     - [ ] Flexbox
+      - [ ] [Code inspiration](#flexbox-positioning)
       - [ ] `Container, flex-direction, flex-wrap, flex-grow, flex-shrink, justify-content, align-items`
       - [ ] [Exercise 2](#flexbox)
     - [ ] Centering stuff (vertically and horizontally)
@@ -30,12 +31,14 @@
       - [ ] `left:50%; transform: translate(-50%);`
  - [ ] Responsive web development - why?
    - [ ] Show https://www.soudfa.com/ as example of what happens on different devices
+   - [ ] [Code inspiration](#responsive-development)
    - [ ] Mobile first development
      - [ ] Focus on what matters
      - [ ] Web is blockbased better for mobile. Special case is desktop!
     - [ ] Media queries
       - [ ] Only when it makes sense! Dont use predefined widths
       - [ ] `max-width`, `min-width`
+    - [ ] [Exercise](#responsive)
     - [ ] If time relative measurements (%, (r)em)
  - [ ] How to work with the inspector
 
