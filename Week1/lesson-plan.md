@@ -25,12 +25,14 @@
 
 - CSS
     - Add and remove style from a website
-    - Show id, class, element type selector
     - [Code inspiration teaching the below topics](#simple-css-inline)
+        - Show id, class, element type selector
+        - Child selector: `.red-color .text`, and selector `.red-color, .text`, 
+        - Pseudo selector `.red-color:hover`
     	- Specificity
-    - Properties mention a few (color, width, height, etc.)
-     	- Rules will be applied to ALL elements that match your selector
-    - External vs inline styles vs element style
+        - Properties mention a few (color, width, height, etc.)
+         	- Rules will be applied to ALL elements that match your selector
+        - External vs inline styles vs element style
     - If time Boxmodel: border-box: width is set with the border inside! content-box, 100 px refers ONLY to the content, padding, border is on top! [Code inspiration](#box-model)
 
 [Exercise 2](#exercise-2), [Exercise 3](#exercise-3), [exercise 4](#exercise-4), [exercise 5](#exercise-5)
