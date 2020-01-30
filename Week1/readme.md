@@ -2,14 +2,24 @@
 
 ## Learning goals
 - [ ] The division of labor between HTML and CSS
- - [ ] Introduction to HTML:
-    - [ ] DOM
-    - [ ] Parents, children, attributes
-    - [ ] HTML Tags and semantic elements
+ - [ ] HTML
+    - [ ] WHAT IS HTML?
+  	- [ ] HTML tree structure
+    	- [ ] Parents, children, attributes
+    - [ ] HTML TAGS
+      - [ ] Standard (div, p, span, h1)
+      - [ ] Semantic
  - [ ] Introduction to ARIA
  - [ ] Introduction to CSS:
-    - [ ] Where can we write it and what difference does that make?
-    - [ ] Selectors (id, class, element type), properties
+      - [ ] External vs inline styles vs element style
+      - [ ] CSS selectors
+        - [ ] Id, class and type
+        - [ ] Child: `.red-color .text`, and selector `.red-color, .text`, 
+        - [ ] Pseudo selector `.red-color:hover`
+        - [ ] nth-child(), sibling
+  	- [ ] Specificity
+    - [ ] Properties
+    - [ ] Boxmodel
     - [ ] How to structure a CSS file
     - [ ] Naming things
  - [ ] External files: relative and absolute paths
