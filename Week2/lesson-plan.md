@@ -13,12 +13,11 @@
 
  - [ ] Student presentations
  - [ ] Last week recap and questions
- - [ ] Layout - why is this important?
-    - [ ] Positioning (static, relative, absolute, fixed)
-      - [ ] [Why is positioning important](#why-is-positioning-important)
+ - [ ] Layout - [why is it important](#why-is-positioning-important)
       - [ ] Talk a little about flow (determines layout)
         - [ ] Block flow (on top of each other bottom to top)
         - [ ] inline flow (like text flows left to right)
+    - [ ] Positioning (static, relative, absolute, fixed)
       - [ ] [Code inspiration](#position-boxes)
       - [ ] [Exercise 1](#positioning)
     - [ ] Floating (live coding, no exercise)
