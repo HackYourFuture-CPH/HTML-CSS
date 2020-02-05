@@ -2,7 +2,7 @@
 
 ## Learning goals
 - [ ] Learn to use basic form widgets
-- [ ] Try to apply CSS transitions
+- [ ] Putting layout and forms together
 
 ## Relevant links
 * [Preparation](preparation.md)

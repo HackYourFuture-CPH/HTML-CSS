@@ -14,16 +14,45 @@
 
 - [ ] Learn to use basic form - why do we have forms and what do they do?
   - [ ] form attributes: action and method (GET and POST)
+  - [ ] [Code inspiration](#form-example)
   - [ ] Form control
-    - [ ] Inputs
+    - [ ] Inputs (text, number, email, tel)
     - [ ] Checkboxes
     - [ ] Radio
     - [ ] Select
+    - [ ] Textarea
     - [ ] File Select
     - [ ] Buttons
-  - [ ] Label
+  - [ ] Label (explain how to connect to input, `for` with `id`)
   - [ ] [Exercise 1 - Facebook signup](#facebook-signup)
   - [ ] [Exercise 2 - Payment form](#payment-form)
+
+# Inspiration
+
+## Form example
+```html
+<body>
+  <form action="https://telmore.dk" method="GET">
+    <label for="mobile">Select Mobile</label>
+    <input type="tel" id="mobile" />
+    <input type="checkbox" name="check" id="asd" />
+    <input type="radio" name="gender" id="" />
+    <input type="radio" name="gender" id="" />
+    <input type="radio" name="gender" id="" />
+    <select name="vechicle">
+      <option value="volvo">Volvo</option>
+      <option value="fiat">Fiat</option>
+      <option value="bmw">Bmw</option>
+    </select>
+    <textarea name="" id="" cols="30" rows="3"></textarea>
+    <input type="file" name="" id="" />
+    <button type="reset">Reset</button>
+    <button type="submit">Submit</button>
+    <button type="button">Click me</button>
+  </form>
+</body>
+
+```
 
 # Exercises
 
