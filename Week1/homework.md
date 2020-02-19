@@ -38,16 +38,12 @@ Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 ## Hand in Homework:
 Check this [video](https://youtu.be/ew60RFIfut0) that explains how to hand in homework. Dont forget to post your homework to slack! You can also follow the points below.
 
-1. Go to [hyf-homework-template repo](https://github.com/HackYourFuture-CPH/hyf-homework-template)
-2. Click on the `Clone or download` button, choose `Download ZIP`
-3. Unzip the repo on your local computer
-4. Go to https://github.com/new In the `Repository name` write EXACTLY `hyf-homework`
-5. Click on the `Upload new files` link
-6. Drag and drop the contents of the hyf-homework-template repo
-7. In the commit message write `Init commit` and press the `Commit changes` button
-8. We have now created the structure for handing in homework, lets add our homework!
-9. The files that you have created for the homework now needs to be uploaded to the hyf-homework repository. Start by going to the relevant folder: hyf-homework/html-css/week1<br> Now click the upload button.<br> ![Upload instructions](./assets/upload-instructions.png)
-10. Choose the files to upload (or drag and drop them), write a commit title and select the "Commit directly to the ```master``` branch."
+1. Go to https://github.com/HackYourFuture-CPH/hyf-homework-template/generate
+1. In the Repository name input field, write EXACTLY `hyf-homework`
+1. Let the description be empty, and select public
+1. Click `Create repository from template`
+1. The files that you have created for the homework now needs to be uploaded to the hyf-homework repository. Start by going to the relevant folder: hyf-homework/html-css/week1<br> Now click the upload button.<br> ![Upload instructions](./assets/upload-instructions.png)
+1. Choose the files to upload (or drag and drop them), write a commit title and select the "Commit directly to the ```master``` branch."
 ![Commit instructions](./assets/commit-instructions.png) now press the "Commit changes" button.
 1. If you need to change anything in the files, simply press the upload button and upload the changed file/files with a commit message. 
 1. Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/master/html-css/week1/index.html
