@@ -36,7 +36,7 @@ Read about [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
     - BEFORE you hand it in, read the [Style guide](http://www.w3schools.com/html/html5_syntax.asp) and check your files (you can also use the [HTML validator](https://validator.w3.org)).
 
 ## Hand in Homework:
-Check this [video](https://youtu.be/ew60RFIfut0) that explains how to hand in homework. Dont forget to post your homework to slack! You can also follow the points below.
+Check this [video](https://www.youtube.com/watch?v=ojSQsfnhnKs) that explains how to hand in homework. Dont forget to post your homework to slack! You can also follow the points below.
 
 1. Go to https://github.com/HackYourFuture-CPH/hyf-homework-template/generate
 1. In the Repository name input field, write EXACTLY `hyf-homework`
