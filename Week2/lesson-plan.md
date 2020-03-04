@@ -213,6 +213,8 @@ The result should look like this:
 
 ![positioning exercise](assets/positioning-exercise.jpg)
 
+*Todo: make a positioning exercise that is more real world*
+
 ## Flexbox
 
 Code the layout for this image using the [template found here](assets/exercise-template/flex.box) 
