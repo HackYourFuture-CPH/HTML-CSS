@@ -57,13 +57,13 @@
 # Exercises
 
 ## Facebook signup
-Recreate the following signup form
+Recreate the following signup form using the [template found here](assets/exercise-template/fb-form)
 
 ![facebook signup](./assets/facebook-signup.jpg)
 
 ## Payment form
 
-Recreate the following payment form
+Recreate the following payment form using the [template found here](assets/exercise-template/payment-form)
 
 ### Desktop
 ![payment form desktop](./assets/payment-desktop.jpg)
@@ -71,7 +71,7 @@ Recreate the following payment form
 ### Mobile
 ![payment form mobile](./assets/payment-mobile.jpg)
 
-Take one step at a time! 
+Implement one step at a time! 
 1. First implement the section with order summary
 2. Then payment method
 3. Then Card info

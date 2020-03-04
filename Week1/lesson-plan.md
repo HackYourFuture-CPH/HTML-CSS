@@ -235,45 +235,11 @@ Does the image have an alt attribute? If not, add one.
 
 ## Exercise 3
 
-Create and index.html with the follow hierarchy:
+Using the template found [here](assets/exercise-template/exercise-3). You can either clone the `html/css repo` and copy the files to where you are working with exercises or you can just simply make a new `index.html` page and then copy paste the html into it.
 
-```
-<div id="container">
-    <div>
-        <p>
-            First p element in first div child
-        </p>
-        <p class="cool-style">
-            Second p element in first div child
-        </p>
-    </div>
-    <div>
-        <ul>
-            <li>
-                First li element in second div child
-            </li>
-            <li>
-                Second li element in second div child
-            </li>
-        </ul>
-    </div>
-    <div>
-        <ul>
-            <li>
-                Li element in third div child
-            </li>
-        </ul>
-        <p class="cool-style">
-            P element in third div child
-        </p>
-    </div>
-</div>
+Describe the html hierarchy to the person sitting next to you. Draw a visual representation of the hierarchy
 
-```
-Describe the hierarchy to the person sitting next to you. Draw a visual representation of the hierarchy
-
-Create an external main.css file and add a reference in the index.html.
-Do not add ids or classes to the tags! Now add the following specific styles:
+Do not add ids or classes to the tags! Now add the following specific styles in the `main.css`:
 
 - Select all elements. Add blue font color
 - Select all li elements. Add red font color

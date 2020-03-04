@@ -203,105 +203,26 @@
 
 ## positioning
 
+Using the template in [here](assest/../assets/exercise-template/positioning/index.html), fix the following tasks
+
 1. The first box should be positioned 100px left of its original position.
 2. The second box should be positioned 30px down and 100 right to the wrapper div.
-3. The third box should be positioned fix in the bottom right corner. 
+3. The third box should be positioned fixed in the bottom right corner. 
 
+The result should look like this:
 
-```html
-<head>
-  <style>
-    body {
-      height: 200vh;
-    }
-    .wrapper {
-      margin: 100px;
-    }
-    .box {
-      width: 100px;
-      height: 100px;
-    }
-    .box:nth-child(1) {
-      background-color: lightblue;
-    }
-    .box:nth-child(2) {
-      background-color: lightcoral;
-    }
-    .box:nth-child(3) {
-      background-color: lightcyan;
-    }
-  </style>
-</head>
-<body>
-  <div class="wrapper">
-    <div class="box"></div>
-    <div class="box"></div>
-    <div class="box"></div>
-  </div>
-</body>
-
-```
-
+![positioning exercise](assets/positioning-exercise.jpg)
 
 ## Flexbox
 
-Code the layout for this image using the html below. 
+Code the layout for this image using the [template found here](assets/exercise-template/flex.box) 
 
 ![hyf-exercise](./assets/hyf-flexbox-mockup.JPG)
 
-```html
-<head>
-  <style>
-    .hero-image {
-      background-image: url("https://www.hackyourfuture.dk/static/hero.jpg");
-    }
-  </style>
-</head>
-<header>
-  <img src="https://www.hackyourfuture.dk/static/logo-dark.svg" alt="hack your future dark logo" />
-  <nav>
-    <ul>
-      <li>Apply</li>
-      <li>Volunteer</li>
-      <li>About</li>
-      <li>Hire</li>
-    </ul>
-  </nav>
-</header>
-<section class="hero-image">
-  <img src="https://www.hackyourfuture.dk/static/logo-light.svg" alt="hack your future light logo" />
-</section>
-
-```
-
 ## Responsive
 
-Create this responsive section, where two blocks go from being on top of each other to side to sige. Focus on the layout changes, not on the colors, fonts etc. Use the html below as a starting point
+Create this responsive section, where two blocks go from being on top of each other to side to sige. Focus on the layout changes, not on the colors, fonts etc. Use the [template found here](assets/exercise-template/responsive)
 
 ![Responsive site](./assets/responsive-exercise.gif)
 
-```html
-<section class="responsive">
-  <div>
-    <h1>
-      Understand and optimize the carbon footprint of electricity
-    </h1>
-    <h3>
-      electricityMap API is the world's most comprehensive platform measuring
-      the carbon footprint of electricity.
-    </h3>
-    <a>
-      Get in touch
-    </a>
-    <a>
-      Learn more
-    </a>
-  </div>
-  <img
-    src="https://datavizproject.com/wp-content/uploads/2015/10/1-Line-Chart.png"
-    alt="graph"
-  />
-</section>
-
-```
 
