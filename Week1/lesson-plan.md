@@ -1,4 +1,5 @@
 # Lesson plan
+
 ```
 > Focus on having lots of in class exercises.
 
@@ -44,10 +45,58 @@
 
 [Exercise 2](#exercise-2), [Exercise 3](#exercise-3), [Exercise 4](#exercise-4, [Exercise optional 1](#exercise-optional-1)
 
-# Code inspiration
 
-## Simple html page
+
+
+
+## Introduction
+- Quick introduction of mentors
+- Importance of asking questions
+ 
+
+## HTML
+- The division of labor between HTML and CSS
+- WHAT IS HTML?
+- HTML tree structure (dont go into detail about DOM, this is expalined in the js class)
+  - Parents, children, attributes
+
+
+### HTML tree structure - *exercise 📝*
+
+Answer the questions below using the html found beneath
+
+```html
+<section>
+    <div>
+        <p>hello</p>
+        <p>world</p>
+        <a href="#">
+            <ul>
+                <li>Hack</li>
+                <li>your</li>
+                 <li>Future</li>
+            </ul>
+        </a>		
+    </div>
+</section>
+
 ```
+
+1. The p element with the text “world” - what elements is its parent?
+1. What text is written in the ul element’s second child?
+1. What text is written in the div element’s first child?
+1. The p element with the text world, what siblings does it have?
+
+---
+
+### HTML TAGS
+  - Standard (div, p, span, h1)
+  - Semantic (header, nav, footer, etc)
+  - Introduction to ARIA
+
+### Simple html page - *mentor code inpsiration*
+
+```html
 <html>
   <head>
     <title>test dom</title>
@@ -67,12 +116,21 @@
     </div>
   </body>
 </html>
-
 ```
 
-## Simple css inline
+## CSS
+- Add and remove style from a real website using devtools. Showing what css does and what html does
+- CSS selectors
+  - Id, class and type
+  - Child: `.red-color .text`, and selector `.red-color, .text`, 
+  - Pseudo selector `.red-color:hover`
+  - nth-child(), sibling
+  - Rules will be applied to ALL elements that match your selector
 
-```
+
+## Simple css inline - *mentor code inpsiration*
+
+```html
 <html>
   <head>
     <title>
@@ -118,13 +176,20 @@
     </div>
   </body>
 </html>
-
 ```
+   
+- Specificity
+- Properties mention a few (color, width, height, etc.)
+- External vs inline styles vs element style
 
-## Box model
+### Boxmodel (if time)
+border-box: width is set with the border inside! content-box, 100 px refers ONLY to the content, padding, border is on top! 
+
+
+#### Box model - *mentor code inpsiration*
 Fix the last box that pops into the next line
 
-```
+```html
 <html>
     <head>
         <title>
@@ -159,68 +224,41 @@ Fix the last box that pops into the next line
 
 OR
 
-```
+```html
 <html>
-<head>
-    <style>
-      .box-model {
-        width: 100px;
-        height: 100px;
-        background-color: black;
-        padding: 10px;
-        margin: 20px;
-        border: 20px solid grey;
-        box-sizing: border-box;
-      }
-    </style>
-</head>
+  <head>
+      <style>
+        .box-model {
+          width: 100px;
+          height: 100px;
+          background-color: black;
+          padding: 10px;
+          margin: 20px;
+          border: 20px solid grey;
+          box-sizing: border-box;
+        }
+      </style>
+  </head>
   <body>
     <div class="box-model"></div>
   </body>
 </html>
-
 ```
 
-# Exercises
+- How to structure a CSS file
+- Naming things
+- External files: relative and absolute paths
+- Getting to know your text editor
 
-Exercises made by [Niels Gregersen](https://github.com/senner007)
+### Introduction webpage - *exercise 📝*
 
-## Exercise 1
-
-Answer the questions below using the html found beneath
-
-```
-<section>
-    <div>
-        <p>hello</p>
-        <p>world</p>
-        <a href="#">
-            <ul>
-                <li>Hack</li>
-                <li>your</li>
-                 <li>Future</li>
-            </ul>
-        </a>		
-    </div>
-</section>
-
-```
-
-1. The p element with the text “world” - what elements is its parent?
-1. What text is written in the ul element’s second child?
-1. What text is written in the div element’s first child?
-1. The p element with the text world, what siblings does it have?
-
-
-## Exercise 2
 Create web page where you introduce yourself. It should only have a headline, an image and some text.
 - Create an index.html file with only the basic structure: 
 
-``` 
-<!DOCTYPE html>
+``` html
 <html>
     <head>
-    <title>About me</title>
+      <title>About me</title>
     </head>
 
     <body>
@@ -228,12 +266,13 @@ Create web page where you introduce yourself. It should only have a headline, an
     </body>
 </html>
 ```
+
 - Remember to add the styling through an external css file.
 
 Does the image have an alt attribute? If not, add one.
 [The alt Attribute](https://www.w3schools.com/html/html_images.asp)
 
-## Exercise 3
+### CSS selectors - *exercise 📝*
 
 Using the template found [here](assets/exercise-template/exercise-3). You can either clone the `html/css repo` and copy the files to where you are working with exercises or you can just simply make a new `index.html` page and then copy paste the html into it.
 
@@ -246,11 +285,11 @@ Do not add ids or classes to the tags! Now add the following specific styles in 
 - Select the second p element in the first div child. Add green color to the font. Hint: use the nth-child selector 
 - Select the elements that have a class of 'cool-style'. Add some cool styling. 
 
-## Exercise 4
+## HTML tags description - *exercise 📝*
 Describe when to use the following tags and what they do:
 `header, footer, section, canvas, nav, article, main, audio, video`
 
-## Exercise optional 1
+## Extra exercises - *exercise 📝*
 
 Play the game called CSS Diner : https://flukeout.github.io/
 
