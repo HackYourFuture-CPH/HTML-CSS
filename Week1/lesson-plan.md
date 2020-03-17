@@ -43,23 +43,17 @@
  - External files: relative and absolute paths
  - Getting to know your text editor
 
-[Exercise 2](#exercise-2), [Exercise 3](#exercise-3), [Exercise 4](#exercise-4, [Exercise optional 1](#exercise-optional-1)
-
-
-
 
 
 ## Introduction
 - Quick introduction of mentors
 - Importance of asking questions
- 
 
 ## HTML
 - The division of labor between HTML and CSS
 - WHAT IS HTML?
 - HTML tree structure (dont go into detail about DOM, this is expalined in the js class)
   - Parents, children, attributes
-
 
 ### HTML tree structure - *exercise 📝*
 
@@ -245,6 +239,7 @@ OR
 </html>
 ```
 
+### CSS continued
 - How to structure a CSS file
 - Naming things
 - External files: relative and absolute paths
