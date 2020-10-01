@@ -24,11 +24,11 @@ Please get yourself familiar with this repository by navigating your way through
 * Know your way around your text editor  
 * Feel comfortable working with the inspector  
 * Properly indent your code  
-* Properly naming classes, id's  
+* Properly naming classes and id's  
 * Responsive, _mobile first_ development  
 * Know good and bad practices when it comes to HTML  
 * Get an understanding of where to find information on the web  
-* Give receive/feedback from/on fellow students  
+* Give/receive feedback on/from fellow students  
 * Presenting and explaining your work to others  
 
 
