@@ -8,8 +8,6 @@ The signup form is fairly complex and broken into 4 steps in order not to scare 
 
 The task is to recreate this form in HTML and CSS. You should focus on using the right HTML form widgets for the job, applying the general layout. There is no visual design provided, so you can choose colors etc. but no points are awarded for good or bad design so it is suggest that you just leave all of the form input with the stock styling and only try to refine this if you have completed all other tasks.
 
-Notice that there is some “state-based” functionality, such as the ability to hide and show a custom shipping address, if the billing and shipping address is not the same. Try to apply the “checkbox hack” that we used in class today to achieve this (https://css-tricks.com/the-checkbox-hack/)
-
 Currently you are expected to create 4 separate HTML files and set up links between them using anchor (<a>) tags. If you feel like trying out some more techniques learned in class today, try instead putting the 4 different form steps into tabs using the library we learned to use today. Or you can also create tabs using the checkbox hack. 
 
 There is a progress bar that will indicate how far the user is. If you have time, try to use CSS transitions to animate it so the bar goes from 0-1 on the first page, 1-2 on the second page and so on (with a smooth and nice animation).
@@ -18,8 +16,6 @@ There is a progress bar that will indicate how far the user is. If you have time
 Direct links to wireframes:
 
 [Step 1a](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%201a.pdf)
-
-[Step 1b](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%201b.pdf)
 
 [Step 2](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%202.pdf)
 
