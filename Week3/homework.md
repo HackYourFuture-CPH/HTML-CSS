@@ -21,8 +21,6 @@ Direct links to wireframes:
 
 [Step 3](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%203.pdf)
 
-[Step 4](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%204.pdf)
-
 Below is an overview of the fields in the form and how they should be validated. To figure out the right regular expression pattern try googling for something like ("regex only letters") and use something like [this website](https://regexr.com/) to test that the pattern you have found works correctly.
 
 | Field name                   | Required | Validation criteria                                    |
