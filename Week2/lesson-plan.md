@@ -203,7 +203,7 @@
 
 ## positioning
 
-Using the template in [here](assest/../assets/exercise-template/positioning/index.html), fix the following tasks
+Using the template in [here](assest/../assets/exercise-template/positioning), fix the following tasks
 
 1. The first box should be positioned 100px left of its original position.
 2. The second box should be positioned 30px down and 100 right to the wrapper div.
