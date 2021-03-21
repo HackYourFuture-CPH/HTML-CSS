@@ -2,10 +2,10 @@
 
 >Before you come to your first session at HackYourFuture please go through this document, read, watch and check if you are ready to start your HackYourFuture adventure!
 
-### Read these Chapters from the [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2018/)
- * [What Is a Front-End Developer?](https://frontendmasters.com/books/front-end-handbook/2018/what-is-a-FD.html)
- * [Part I. The Front-End Practice](https://frontendmasters.com/books/front-end-handbook/2018/practice.html)
- * From Part II. read: [Self Directed Learning](https://frontendmasters.com/books/front-end-handbook/2018/learning/self-direct-learning.html), also read [Learn HTML/CSS](https://internetingishard.com/html-and-css/)
+### Read these Chapters from the [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
+ * [What Is a Front-End Developer?](https://frontendmasters.com/books/front-end-handbook/2019/#2)
+ * [Part I. The Front-End Practice](https://frontendmasters.com/books/front-end-handbook/2019/#3)
+ * From Part II. read: [Self Directed Learning](https://frontendmasters.com/books/front-end-handbook/2019/#4), also read [Learn HTML/CSS](https://internetingishard.com/html-and-css/)
  * Read [lesson 1: building your first web page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
 
 ### After you finish reading ask yourself the following questions:
