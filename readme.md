@@ -11,9 +11,9 @@ So since this is your first module, what can you expect the next three weeks?
 ## Planning for Current Class
 | Week | Topic | Preparation | Homework | Review |
 | ---- | ----- | ---- |----------|--------|
-| 1. | DOM, HTML/CSS syntax | [Preparation](/Week1/preparation.md) | [Homework](/Week1/homework.md) |-|
-| 2. | Responsive design, media queries, developer tools | [Preparation](/Week2/preparation.md) | [Homework](/Week2/homework.md) |-|
-| 3. | Recap, useful resources on the web| [Preparation](/Week2/preparation.md) | [Homework](/Week3/homework.md) |-|
+| 1. | DOM, HTML/CSS syntax | [Preparation](/Week1/preparation.md) | [Homework](/Week1/homework.md) |[Lesson Plan](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week1/lesson-plan.md)|
+| 2. | Responsive design, media queries, developer tools | [Preparation](/Week2/preparation.md) | [Homework](/Week2/homework.md) |[Lesson Plan](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week2/lesson-plan.md)|
+| 3. | Recap, useful resources on the web| [Preparation](/Week2/preparation.md) | [Homework](/Week3/homework.md) |[Lesson Plan](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/lesson-plan.md)|
 
 Please get yourself familiar with this repository by navigating your way through the different README files. Kind note: make sure to read assignment requirements properly for handing them in, in the end this saves both you and your teacher a lot of time. If you have any questions or something is not entirely clear ¯\\\_(ツ)_/¯, please ask/comment on Slack!
 
