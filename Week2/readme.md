@@ -16,3 +16,4 @@
 ## Relevant links
 * [Preparation](preparation.md)
 * [Homework](homework.md)
+* [Lesson Plan](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week2/lesson-plan.md)
