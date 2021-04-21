@@ -2,13 +2,13 @@
 
 In the folder “wireframes” you find wireframes for a signup flow for a website that finds special deals on clothes, handbags and accesories based on users personal preferences.
 
-The signup form is fairly complex and broken into 4 steps in order not to scare away users.
+The signup form is fairly complex and broken into 3 steps in order not to scare away users.
 
 ![Get to work](https://media.giphy.com/media/3og0ITQOC5wlyk8ffy/giphy.gif)
 
 The task is to recreate this form in HTML and CSS. You should focus on using the right HTML form widgets for the job, applying the general layout. There is no visual design provided, so you can choose colors etc. but no points are awarded for good or bad design so it is suggest that you just leave all of the form input with the stock styling and only try to refine this if you have completed all other tasks.
 
-Currently you are expected to create 3 separate HTML files and set up links between them using anchor (<a>) tags. If you feel like trying out some more techniques learned in class today, try instead putting the 3 different form steps into tabs using the library we learned to use today. Or you can also create tabs using the checkbox hack. Step 4/4 has been removed
+Currently you are expected to create 3 separate HTML files and set up links between them using anchor (<a>) tags. If you feel like trying out some more techniques learned in class today, try instead putting the 3 different form steps into tabs using the library we learned to use today. Or you can also create tabs using the checkbox hack.
 
 There is a progress bar that will indicate how far the user is. If you have time, try to use CSS transitions to animate it so the bar goes from 0-1 on the first page, 1-2 on the second page and so on (with a smooth and nice animation).
 
