@@ -78,3 +78,5 @@ Implement one step at a time!
 4. And in the end the buy now and need help buttons
 
 **Dont focus on colors borders, fonts, rounded corners, but focus on layout!**
+
+Thank you for teaching the first module of the students ! For homework helpers, please click [here](https://forms.gle/LjihPmxGrmuEGDUy7) to give us feedback. For teachers, your survey is available [here](https://forms.gle/o5AKSkvGhC8uy6gh6). 
