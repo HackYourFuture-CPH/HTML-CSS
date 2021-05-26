@@ -11,7 +11,7 @@
 ### After you finish reading ask yourself the following questions:
  * What is a Front-End Developer?
  * What is A web browser?
- * Wat are considered as Front-End Dev Skills?
+ * What are considered as Front-End Dev Skills?
  * What are good references/resources to use to learn on your own? (have you bookmarked them??)
  * What is the difference between HTML and CSS?
  * What are HTML elements, tags, and attributes?
