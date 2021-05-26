@@ -54,3 +54,5 @@ For the forms create sensible form validation. Read up on form validation [here]
 - Now upload your homework files to the repo. 
 - If you forgot how to do that, check it out [here](../Week1/homework.md#hand-in-homework)
 - Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/master/html-css/week1/index.html
+  
+ Please, take a few minutes to give us feedback about the module by filling out the survey[here](https://forms.gle/Emxh1kqmCL6ybUeh7). 
