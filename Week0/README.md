@@ -26,7 +26,7 @@
  * <a href="https://www.youtube.com/watch?v=WjDrMKZWCt0" target="_blank">How Web Browsers Work</a>
 
 ### Getting ready for Javascript
-To get an easier start of the javascript classes look into [Javascript fundamentals](http://javascript.info/). 
+To get an easier start with learning javaScript later on look into [Javascript fundamentals](http://javascript.info/). 
 
 ### Install the Slack Apps on your:
 - Mobile: [App store](https://itunes.apple.com/nl/app/slack/id803453959?mt=12) or [Google Play](https://play.google.com/store/apps/details?id=com.Slack&hl=nl)
@@ -38,7 +38,7 @@ To get an easier start of the javascript classes look into [Javascript fundament
 - Slack: https://hackyourfuture-cph.slack.com/signup
 
 Once you are in, join the channel #class{your class number} and write "hej 👋".
-So if your classnumber is 9 the Slack channel will be called #class09. <br>
+So if your classnumber is 21 the Slack channel will be called #class21. <br>
 
 We also ask you not to use fake names - as you will use this channel for advice and feedback it will be helpful if your mentors know who is who. Adding a photo to your profile is also recommended :)
 
@@ -71,4 +71,4 @@ Any of the ones listed below is fine.
 If you have no experience or preference when it comes to working with text editor just install Visual studio, you can always switch to another editor later on in the program.
 
 ### Curriculum
-Don't forget to take a look at the [HackYourFuture Copenhagen curriculum](https://github.com/HackYourFuture-cph/curriculum). Go through it and make sure you have an idea of what you will learn at HackYourFuture :muscle:
+Don't forget to take a look at the [HackYourFuture Denmark curriculum](https://github.com/HackYourFuture-cph/curriculum). Go through it and make sure you have an idea of what you will learn at HackYourFuture :muscle:
