@@ -15,11 +15,11 @@ There is a progress bar that will indicate how far the user is. If you have time
 
 Direct links to wireframes:
 
-[Step 1a](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%201a.pdf)
+[Step 1a](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/main/Week3/wireframes/Step%201a.pdf)
 
-[Step 2](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%202.pdf)
+[Step 2](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/main/Week3/wireframes/Step%202.pdf)
 
-[Step 3](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/master/Week3/wireframes/Step%203.pdf)
+[Step 3](https://github.com/HackYourFuture-CPH/HTML-CSS/blob/main/Week3/wireframes/Step%203.pdf)
 
 Below is an overview of the fields in the form and how they should be validated. To figure out the right regular expression pattern try googling for something like ("regex only letters") and use something like [this website](https://regexr.com/) to test that the pattern you have found works correctly.
 
@@ -53,6 +53,6 @@ For the forms create sensible form validation. Read up on form validation [here]
 - With the `https://github.com/USERNAME/hyf-homework`, find the relevant week number
 - Now upload your homework files to the repo. 
 - If you forgot how to do that, check it out [here](../Week1/homework.md#hand-in-homework)
-- Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/master/html-css/week1/index.html
+- Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/main/html-css/week1/index.html
   
  Please, take a few minutes to give us feedback about the module by filling out the survey[here](https://forms.gle/Emxh1kqmCL6ybUeh7). 
