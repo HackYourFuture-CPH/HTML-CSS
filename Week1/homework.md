@@ -43,7 +43,7 @@ Check this [video](https://www.youtube.com/watch?v=ojSQsfnhnKs) that explains ho
 1. Let the description be empty, and select public
 1. Click `Create repository from template`
 1. The files that you have created for the homework now needs to be uploaded to the hyf-homework repository. Start by going to the relevant folder: hyf-homework/html-css/week1<br> Now click the upload button.<br> ![Upload instructions](./assets/upload-instructions.png)
-1. Choose the files to upload (or drag and drop them), write a commit title and select the "Commit directly to the ```master``` branch."
+1. Choose the files to upload (or drag and drop them), write a commit title and select the "Commit directly to the ```main``` branch."
 ![Commit instructions](./assets/commit-instructions.png) now press the "Commit changes" button.
 1. If you need to change anything in the files, simply press the upload button and upload the changed file/files with a commit message. 
 1. Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/main/html-css/week1/index.html
