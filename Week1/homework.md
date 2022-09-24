@@ -46,7 +46,7 @@ Check this [video](https://www.youtube.com/watch?v=ojSQsfnhnKs) that explains ho
 1. Choose the files to upload (or drag and drop them), write a commit title and select the "Commit directly to the ```master``` branch."
 ![Commit instructions](./assets/commit-instructions.png) now press the "Commit changes" button.
 1. If you need to change anything in the files, simply press the upload button and upload the changed file/files with a commit message. 
-1. Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/master/html-css/week1/index.html
+1. Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/main/html-css/week1/index.html
 1. Congratulations you have now handed in the homework 🎉! 
 
 You are now done with the first homework at Hack Your Future. You should be proud of yourself!<br><br> ![Proud](https://media.giphy.com/media/xSM46ernAUN3y/giphy.gif)
