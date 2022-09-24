@@ -20,4 +20,4 @@ Some readings that may help you with your homework:
 - With the `https://github.com/USERNAME/hyf-homework` repo, find the relevant week number
 - Now upload your homework files to the repo. 
 - If you forgot how to do that, check it out [here](../Week1/homework.md#hand-in-homework)
-- Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/master/html-css/week1/index.html
+- Post your index.html file on your classes slack channel in this format: https://htmlpreview.github.io/?https://github.com/YOUR_ACCOUNT/hyf-homework/blob/main/html-css/week1/index.html
