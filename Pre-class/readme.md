@@ -81,7 +81,7 @@ If you like the `freeCodeCamp` format, you should definitely continue beyond wha
 
 <br>
 
-##Submitting your preparation
+## Submitting your preparation
 
 Before the first Sunday session, you must have completed all the steps listed above. You then need to make your freeCodeCamp profile public (LOOM here?) and post a link to your profile in your class Slack channel. If you do not do this before the first Sunday session, you will not be able to continue with the course.
 
