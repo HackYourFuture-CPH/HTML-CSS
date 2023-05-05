@@ -1,4 +1,4 @@
-# Pre-class materials
+# Pre-course materials
 
 This sections lists the steps you have to complete BEFORE the bootcamp starts. <br>
 You are essentially fully teaching yourself `HTML` and `CSS`, so it is very important and **mandatory** that you complete the steps before the first sunday session. <br>
