@@ -48,7 +48,7 @@ Learning the CSS Box Model and Flexbox will give you a very good basis to deal w
 
 # JavaScript
 
-Complete these steps in the freeCodeCamp[JavaScript Algorithms and Data Structures certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/):
+Complete these steps in the freeCodeCamp [JavaScript Algorithms and Data Structures certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/):
 
 - [Comment Your JavaScript Code](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comment-your-javascript-code)
 - [Declare JavaScript Variables](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables)
