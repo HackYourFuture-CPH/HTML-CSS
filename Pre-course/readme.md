@@ -1,7 +1,8 @@
 # Pre-course materials
 
-This sections lists the steps you have to complete BEFORE the bootcamp starts. <br>
-You are going to fully teaching yourself `HTML` and `CSS`, so it is very important and **mandatory** that you complete the steps before the first sunday session. <br>
+This section lists the steps you have to complete **BEFORE** the bootcamp starts. <br>
+
+You are going to be fully self-learning `HTML` and `CSS`, so it is very important and **mandatory** that you complete the steps before the first sunday session at HackYourFuture. <br>
 You will also get a little introduction to `Javascript`, so that you can be more comfortable jumping into it when the course starts.
 
 <br>
@@ -16,7 +17,7 @@ The `freeCodeCamp` courses are a good way to learn and their certifications are 
 
 ## What you have done so far
 
-The are 5 parts in the [Responsive Web Design certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Each part contains a few sections and a certification project at the end of each part.
+There are 5 parts in the [Responsive Web Design certification](https://www.freecodecamp.org/learn/2022/responsive-web-design/). Each part contains a few sections and a certification project at the end of each part.
 You have already finished at least 2 sections from the first part as part of the application assignment:
 
 - [Learn HTML by Building a Cat Photo App](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/)
@@ -33,7 +34,7 @@ You should finish the first part and the certification project that goes with it
 
 - [Certification Project - Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form)
 
-This will get you get familiar with `CSS` colors and building `Forms` with `HTML` and `CSS`, which are both essential parts of basic Web Development knowledge.
+This will familiarise you with `CSS` colors and building `Forms` with `HTML` and `CSS`, which are both essential parts of basic Web Development knowledge.
 
 <br>
 
@@ -42,7 +43,7 @@ You should also complete 2 more sections from the second part:
 - [Learn the CSS Box Model by Building a Rothko Painting](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting)
 - [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery)
 
-Learning the CSS Box Model and Flexbox will give you a very good basis to deal with any styling or layout challenge.
+Learning the CSS Box Model and Flexbox will give you very good foundational knowledge to deal with any styling or layout challenge.
 
 <br>
 
@@ -77,7 +78,7 @@ Complete these steps in the freeCodeCamp [JavaScript Algorithms and Data Structu
 
 <br>
 
-If you like the `freeCodeCamp` format, you should definitely continue beyond what we ask of you and attain the various relevant certifications - especially by finishing off the Responsive Web Design and Javascript Algorithms and Data Structures!
+If you like the `freeCodeCamp` format, you should definitely continue beyond what we ask of you and attain the various relevant certifications - especially by finishing off the **Responsive Web Design** and **Javascript Algorithms and Data Structures** certifications!
 
 <br>
 
