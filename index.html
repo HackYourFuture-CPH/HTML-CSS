@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body></body>
+  <script>
+    const body = document.querySelector("body");
+
+    // Create a button
+    const button = document.createElement("Button");
+
+    //Test displayed on button
+    const text = document.createTextNode("Button");
+
+    // appending text to button
+    button.appendChild(text);
+
+    // appending button to div
+    body.appendChild(button);
+
+    // Access the button
+    const myButton = document.querySelector("button");
+
+    myButton.addEventListener("click", domManipulation);
+
+    function domManipulation() {
+      console.log("done");
+      // Create h1 tag
+      const h1 = document.createElement("h1");
+
+      //Add text to h1
+      const h1text = document.createTextNode("JavaScript Test");
+
+      // Append text to h1
+      h1.appendChild(h1text);
+
+      // Append h1 to body
+      body.appendChild(h1);
+
+      // Change background color
+      body.style.backgroundColor = "red";
+    }
+  </script>
+</html>
