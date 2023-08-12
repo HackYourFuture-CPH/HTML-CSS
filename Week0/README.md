@@ -1,7 +1,5 @@
 ### Hello new class!
 
->Before you come to your first session at HackYourFuture please go through this document, read, watch and check if you are ready to start your HackYourFuture adventure!
-
 ### Read these Chapters from the [Front-end Handbook](https://frontendmasters.com/books/front-end-handbook/2019/)
  * [What Is a Front-End Developer?](https://frontendmasters.com/books/front-end-handbook/2019/#2)
  * [Part I. The Front-End Practice](https://frontendmasters.com/books/front-end-handbook/2019/#3)
