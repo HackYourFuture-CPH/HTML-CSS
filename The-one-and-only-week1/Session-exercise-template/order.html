@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="order.css" />
+    <title>PAYMENT <span>FORM</span></title>
+  </head>
+
+  <body>
+    <header>
+      <div id="order-summary"></div>
+      <div class="order-summary-section">
+        <p></p>
+        <p></p>
+      </div>
+
+      <hr />
+      <div>
+        <p></p>
+        <p></p>
+      </div>
+    </header>
+
+    <form>
+      <div>
+        <h2 id="">Payment Method</h2>
+        <div></div>
+        <div></div>
+        <button></button>
+        <input
+          type="radio"
+          id=""
+          placeholder="1234 1234 1234 1234"
+          name="card-number"
+          required
+        />
+      </div>
+
+      <div id="">
+        <h2 id="">Card Info</h2>
+        <div id="">
+          <div>
+            <label for="card-number">Card number</label><br />
+            <input
+              type="text"
+              id=""
+              placeholder="1234 1234 1234 1234"
+              name="card-number"
+              required
+            />
+          </div>
+
+          <div>
+            <label for="exp-date">Expiry date</label><br />
+            <input
+              type="text"
+              id=""
+              placeholder="MM / YY"
+              name="exp-date"
+              required
+            />
+          </div>
+
+          <div>
+            <label for="sec-code">Security code</label><br />
+            <input
+              type="text"
+              id=""
+              placeholder="CVV"
+              name="sec-code"
+              required
+            />
+          </div>
+        </div>
+      </div>
+
+      <input type="submit" id="buy-now" value="Buy now" />
+      <p id="">Need Help?</p>
+    </form>
+  </body>
+</html>
