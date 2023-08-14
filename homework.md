@@ -15,6 +15,7 @@ Make it as full-blown as you like and look around the internet for inspiration (
 - [ ] a portfolio section having the [FCC Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) as the first project.`*`
 - [ ] advanced CSS and/or animations applied to implement interesting interactive elements
 - [ ] website responsiveness
+- [ ] deploy your page on [Netlify](https://www.netlify.com)! 
 
 <br/>
 
