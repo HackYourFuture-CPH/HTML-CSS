@@ -48,6 +48,10 @@ To verify that you have switched to the branch, it should appear selected:
 `7.` that is it! You should see your pull request listed in the "Pull requests" tab.
 
 <br/>
+
+`8.` post a link to your homework Pull Request in your class channel. 
+
+<br/>
 <br/>
 
-`*` it is either your own homework repository in your own GitHub account or the central class homework repository in the HackYourFuture-CPH GitHub account - depending on what approach is being followed for your class. Follow the information and instuctions regarding this, and ask if you are still unsure.
+`*` it is either your own homework repository in your own GitHub account or the central class homework repository in the HackYourFuture-CPH GitHub account - depending on what approach is being followed for your class. Follow the information and instructions regarding this, and ask if you are still unsure.
