@@ -6,16 +6,16 @@ Make your own `Developer CV / Portfolio page`!
 
 Make it as extravagant as you like and look around the internet for inspiration (f.x. [here](https://scrimba.com/articles/web-developer-portfolio-inspiration)), while the **minimum requirements** are:
 
-- [ ] 2 files: .html and .css
-- [ ] a navigation bar leading to different parts of the single-page website
-- [ ] a header element with your name and title
-- [ ] a contact section that also includes the most important SoMe links
-- [ ] a short description section
-- [ ] a skill showcase section highlighting your technical skills
-- [ ] a portfolio section having the [FCC Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) as the first project.`*`
-- [ ] advanced CSS and/or animations applied to implement interesting interactive elements
-- [ ] website responsiveness
-- [ ] deploy your page on [Netlify](https://www.netlify.com)! 
+- [ ] Two files: .html and .css
+- [ ] Navigation bar leading to different parts of the single-page website
+- [ ] Header element with your name and title
+- [ ] Contact section that also includes the most important SoMe links
+- [ ] Short description section
+- [ ] Skill showcase section highlighting your technical skills
+- [ ] Portfolio section having the [FCC Survey Form](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-survey-form-project/build-a-survey-form) as the first project.`*`
+- [ ] Advanced CSS and/or animations applied to implement interesting interactive elements
+- [ ] Website responsiveness so it looks good on different screen sizes and devices
+- [ ] Deploy your page on [Netlify](https://www.netlify.com)! 
 
 <br/>
 
