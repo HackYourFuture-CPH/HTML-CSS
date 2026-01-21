@@ -1,5 +1,30 @@
 # Order form exercise
 
+# HTML & CSS Best Practices Exercise
+
+## HTML Best Practices
+
+- **HTML Element Structure**
+  - Use semantic elements like `<main>`, `<section>`, `<header>`, and `<footer>` and smaller elements like `<div>`, `<h1>`, `<p>`, `<form>`, and `<input>`.
+
+- **Form Elements**
+  - Focus on various `<input>` types: `text`, `number`, `tel`, `email`, and `checkbox`.
+  - Implement attributes like `required` to ensure proper form validation.
+  - Learn how to wrap elements like `<img>` and `<input type="checkbox">` in a container to trigger checkbox selection via image click.
+
+## CSS Best Practices
+
+- **Class Naming and Structure**
+  - Use meaningful class names and structure for maintainable CSS.
+  - Target child elements efficiently using parent class selectors.
+
+- **Flexbox Layout**
+  - Utilize CSS Flexbox for creating flexible and responsive layouts.
+
+- **Responsive Design**
+  - Apply responsive design principles using media queries and flexible grid systems.
+
+
 Use the `Session-exercise-template` to get started!
 
 Design:
